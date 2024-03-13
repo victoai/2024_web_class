@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+
+<style>
+.wrap{
+ width: 500px;
+ padding:20px;
+ border:1px solid black;
+ margin:0 auto;
+ margin-top:100px;
+}
+
+
+.inner-wrap{
+	border:1px solid black;
+	padding:10px;
+}
+</style>
+</head>
+<body>
+
+
+<div class="wrap">
+
+	<div class="inner-wrap">
+	</div>
+
+</div>
+</body>
+</html>

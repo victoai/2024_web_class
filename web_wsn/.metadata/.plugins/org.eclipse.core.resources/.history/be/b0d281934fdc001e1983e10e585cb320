@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+
+<style>
+ div{
+ 
+  border:1px solid black;
+ }
+ 
+ 
+ .line{
+   display: flex;
+ }
+</style>
+</head>
+<body>
+
+
+<div  class="wrap">
+
+	<div class="line">
+		<div class="col1">d</div>
+		<div class="col2">f</div>	
+	</div>
+	
+
+	<div class="line">
+		<div class="col1">f</div>
+		<div class="col2">d</div>	
+	</div>
+	
+    <div class="line">
+		<div class="col1">fd</div>
+		<div class="col2">dfd</div>	
+	</div>	
+	
+	<div>
+	 <button>등록</button>
+	</div>
+
+</div>
+
+</body>
+</html>

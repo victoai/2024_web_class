@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+
+<form name="frm" action=""  >
+<input type="text">
+<button></button>
+</form>
+</body>
+</html>

@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+
+<style>
+.wrap , line, col1, col2{
+border:1px solid black;
+}
+</style>
+</head>
+<body>
+
+
+<div  class="wrap">
+
+	<div class="line">
+		<div class="col1"></div>
+		<div class="col2"></div>	
+	</div>
+	
+
+	<div class="line">
+		<div class="col1"></div>
+		<div class="col2"></div>	
+	</div>
+	
+    <div class="line">
+		<div class="col1"></div>
+		<div class="col2"></div>	
+	</div>	
+	
+	<div>
+	 <button>등록</button>
+	</div>
+
+</div>
+
+</body>
+</html>

@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+
+
+<style>
+  .wrap{
+     width:300px;
+     height:50px;
+     line-height:50px;
+     border:1px solid black;     
+  }
+  a{
+  text-decoration: none;
+  color:black;
+  }
+</style>
+</head>
+<body>
+
+
+
+<div class="wrap"><a href="/team/team"> 팀선정하기</a></div>
+
+</body>
+</html>

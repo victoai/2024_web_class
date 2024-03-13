@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+
+<div>
+	<!-- 이미지 영역 -->
+	<div>이미지</div>
+	
+	<!-- 로그인정보영역 -->
+	<div> 로그인정보</div>
+</div>
+
+</body>
+</html>

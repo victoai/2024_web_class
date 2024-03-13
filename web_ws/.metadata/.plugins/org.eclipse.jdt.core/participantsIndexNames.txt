@@ -1,0 +1,13 @@
+INDEX VERSION 1.134
+C:\Users\user\Documents\2024자바풀스택\웹\수업소스\web_ws\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2535876156.index
+\day2\src\main\java
+C:\Users\user\Documents\2024자바풀스택\웹\수업소스\web_ws\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3733653379.index
+\team\src\main\java
+C:\Users\user\Documents\2024자바풀스택\웹\수업소스\web_ws\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3294687160.index
+\hello\src\main\java
+C:\Users\user\Documents\2024자바풀스택\웹\수업소스\web_ws\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\960729079.index
+\day2\src\main\java
+C:\Users\Acorn\Documents\2024자바풀스택\웹\수업소스\web_ws\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\960729079.index
+\day2\src\main\java
+C:\Users\Acorn\Documents\2024자바풀스택\웹\수업소스\web_ws\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2535876156.index
+\day2\src\main\java

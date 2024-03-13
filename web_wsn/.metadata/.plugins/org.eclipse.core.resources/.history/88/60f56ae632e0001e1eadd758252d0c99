@@ -1,0 +1,45 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+ <%@ page import="java.util.ArrayList" %>   
+ <%@ page import="day6.Book" %>     
+ 
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+<style>
+table{
+	border:1px solid black;
+	border-collapse:collapse;
+	width:500px;
+	margin:0 auto;
+}
+
+td{
+	border:1px solid black;
+}
+</style>
+</head>
+<body>
+
+<%  ArrayList<Book> list=    request.getAttribute("list"); %>
+
+
+<table>
+	<tr>
+		<td>제목</td>
+		<td>저자</td>
+		<td>가격</td>
+	</tr>
+	
+	<tr>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	
+</table>
+
+</body>
+</html>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;day7/src/main/webapp/html/todo완성.html&apos; to &apos;todo완성2.html&apos;" description="Rename resource &apos;todo완성.html&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/webapp/html/todo완성.html" name="todo완성2.html" stamp="1710313552407" updateReferences="true"/>
+</session>

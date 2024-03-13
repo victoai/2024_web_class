@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Regex Test</title>
+</head>
+<body>
+    <script>
+        function testRegex() {
+            let userInput = prompt("숫자");
+            let regexPattern = /^[A-Z]+(\d{3})$/;
+
+            if (!regexPattern.test(userInput)) {
+            	 alert(" 일치 하지 않느다");                 
+            }
+        }
+
+        // 실행을 위해 페이지가 로드된 후 자동으로 테스트 함수를 호출
+        testRegex();
+    </script>
+</body>
+</html>

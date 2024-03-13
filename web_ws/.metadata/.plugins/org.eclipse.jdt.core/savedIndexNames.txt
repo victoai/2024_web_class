@@ -1,0 +1,8 @@
+INDEX VERSION 1.134+C:\Users\Acorn\Documents\2024자바풀스택\웹\수업소스\web_ws\.metadata\.plugins\org.eclipse.jdt.core
+3573842126.index
+498912033.index
+3271193799.index
+4038756267.index
+1865797976.index
+1773393425.index
+985413812.index

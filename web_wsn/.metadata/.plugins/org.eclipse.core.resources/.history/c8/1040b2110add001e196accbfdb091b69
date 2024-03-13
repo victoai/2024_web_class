@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+
+
+<style>
+
+ ul{
+  list-style:  none;
+ }
+ 
+  ul li{
+     width:200px;
+     height: 300px;
+     border:1px solid black;
+  }
+</style>
+</head>
+<body>
+
+
+<ul>
+ <li>
+  <img src="book.jpg"  alt="속성">
+ </li>
+</ul>
+</body>
+</html>

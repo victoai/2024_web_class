@@ -1,0 +1,9 @@
+INDEX VERSION 1.4+C:\Users\Acorn\Documents\2024자바풀스택\웹\수업소스\web_wsn\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+4158079922.index
+1860047368.index
+433660574.index
+2161144612.index
+1904591011.index
+2055894138.index
+2277357373.index
+3553446158.index

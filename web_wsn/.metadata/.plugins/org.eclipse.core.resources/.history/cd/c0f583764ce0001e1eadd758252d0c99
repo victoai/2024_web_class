@@ -1,0 +1,24 @@
+package day6;
+
+public class 업캐스팅다운캐스팅 {
+
+	public static void main(String[] args) {
+
+
+		String s= "hello";
+	
+		
+		Object o=s;
+	
+		
+		String os  = (String) o;  // 		
+		char result  = os.charAt(0);
+		
+		System.out.println( result);
+		
+		
+		char ch  =((String)o).charAt(0);
+		
+	}
+
+}

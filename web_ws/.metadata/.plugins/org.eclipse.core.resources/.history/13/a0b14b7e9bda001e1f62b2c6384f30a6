@@ -1,0 +1,17 @@
+package day1;
+
+import javax.servlet.http.HttpServlet;
+
+//서블릿 작성
+//서블릿 동작
+
+//서블릿 작성(서블릿 :사용자 요청에 대한 응답정보를 동적으로 만들어 주는 기술 )
+//1. 서블릿을 상속한다. HttpServlet
+//2. service() 매서드를 오버라이드 한다
+//3. 응답내용을 작성한다.
+//4. 톰켓(웹서버)에 내가 만든 서블릿을 등록한다 ( url-mapping ) 
+public class FirstServlet extends HttpServlet{
+
+	
+	
+}

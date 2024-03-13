@@ -1,0 +1,51 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+	pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<style>
+div {
+	border: 1px solid black;
+}
+</style>
+<body>
+
+
+
+	<div>
+
+
+		<!-- line1 -->
+		<div>
+			<h2>수강신청 등록</h2>
+		</div>
+		<!--  -->
+		<div>
+			<div>아이디</div>
+			<div></div>
+		</div>
+
+		<div>
+			<div>비번</div>
+			<div></div>
+		</div>
+
+		<div>
+			<div>이름</div>
+			<div></div>
+		</div>
+
+		<!--  line5 -->
+		<div>
+			<button>등록</button>
+			<button>취소</button>
+		</div>
+
+
+	</div>
+
+</body>
+</html>

@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+
+<style>
+ div{
+ 
+  border:1px solid black;
+ }
+ 
+ .wrap{
+ width:500px;
+ }
+ 
+ .line{
+   display: flex;
+ }
+ 
+ .col1{
+  width:30%;
+ }
+ 
+ .col2{
+  width:70%;
+ }
+ 
+ .line{
+ text-align:center;
+ }
+</style>
+</head>
+<body>
+
+
+<div  class="wrap">
+	 <div class="line">
+		   <h2> 수강신청 </h2>
+	</div>
+
+	<div class="line">
+		<div class="col1">d</div>
+		<div class="col2">f</div>	
+	</div>
+	
+
+	<div class="line">
+		<div class="col1">f</div>
+		<div class="col2">d</div>	
+	</div>
+	
+    <div class="line">
+		<div class="col1">fd</div>
+		<div class="col2">dfd</div>	
+	</div>	
+	
+	<div class="reg">
+	 <button>등록</button>
+	</div>
+
+</div>
+
+</body>
+</html>

@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+
+
+<script>
+
+//회원번호 유효성 검사: 대문자 알파벳 + 숫자 3개
+
+function check(){
+let m_no  = frm.id.value.trim(); // 입력 값에서 앞뒤 공백 제거
+const regex = /\d{3}-\d{4}-\d{4}/;
+ 
+let m_no_pattern = /^[A-Z]+(\d{3})$/; // 대문자 알파벳이 여러 개인 경우 허용
+if (!m_no_pattern.test(m_no)) {
+    alert("올바른 회원번호 형식이 아닙니다. (대문자 알파벳 + 숫자 3개)");
+    frm.id.focus(); // 폼 객체에서 id 필드로 포커스 이동
+    return false;
+}
+
+return true;
+}
+
+
+</script>
+</head>
+<body>
+
+<form name="frm" action="a.jsp"    onsubmit="return check(); ">
+	<input type="text"  name="id">
+<button></button>
+</form>
+</body>
+</html>

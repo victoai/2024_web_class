@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+
+ 
+
+ 
+
+<script>
+function testRegex() {
+    let userInput = document.frm.id.value;
+    let regexPattern = /^[A-Z]+(\d{3})$/;
+
+    if (!regexPattern.test(userInput)) {
+    	 alert("일치 하지 않느다");                 
+    }
+}
+
+// 실행을 위해 페이지가 로드된 후 자동으로 테스트 함수를 호출
+testRegex();
+</script>
+</script>
+</head>
+<body>
+
+<form name="frm" action="a.jsp"  >
+<input type="text"  name="id">
+<button></button>
+</form>
+</body>
+</html>
