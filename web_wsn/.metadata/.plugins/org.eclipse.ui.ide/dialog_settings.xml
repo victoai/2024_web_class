@@ -6,6 +6,9 @@
 		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
 		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
 		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="C:\Users\Acorn\Documents\2024자바풀스택\웹\수업소스\web_wsn\sessionSurvey"/>
+			<item value="C:\Users\Acorn\Documents\2024자바풀스택\웹\수업소스\web_wsn\sessionLogin"/>
+			<item value="C:\Users\Acorn\Documents\2024자바풀스택\웹\수업소스\web_wsn\sessionCart"/>
 			<item value="C:\Users\Acorn\Documents\2024자바풀스택\웹\수업소스\web_wsn\DAOSample"/>
 			<item value="C:\Users\Acorn\Documents\2024자바풀스택\웹\수업소스\web_wsn\mvcSample"/>
 		</list>
