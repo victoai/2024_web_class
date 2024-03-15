@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+
+<script>
+	let snack =  {
+			name : "맛동산",
+			price : 4800,
+			
+			success : function(){
+				alert("hi");
+			}
+		 	,
+		    getPrice : function(){
+		    	return this.price;
+		    }			
+	}
+	
+	snack.success();
+	let price  =snack.getPrice();
+	alert( price);
+	
+	
+
+</script>
+
+</body>
+</html>

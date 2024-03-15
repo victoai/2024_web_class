@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+<script>
+//콜백함수 
+//함수의 매개변수로 함수를 전달받는 것을 콜백함수  (  나중에 호출되는 함수라는 의미로  call back   함수라고 부른다.)
+
+
+function hi(){
+	alert("hi ^^ ");
+}
+
+
+function eachFor(  func ){    // 매개변수로 함수를 전달 받는다.( 콜백함수)
+
+	for( let i=1; i<=3; i++){
+		   func();		 
+	 }
+}
+
+eachFor(  hi );
+
+eachFor (  function(){
+	alert("  퐈이팅  콜백함수 !! ");
+})
+
+
+
+
+
+</script>
+</body>
+</html>

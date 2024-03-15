@@ -9,23 +9,17 @@
 <script>
 
 	function getFoodData(){
-		//alert("dkfkfkf");
-		
-		//$.ajax();
-		
-		// json  => javascript 객체 표기법   , let snack =  { name:"맛동산" , price:4800 }
-		
+		//alert("dkfkfkf");		
+		//$.ajax();		
+		// json  => javascript 객체 표기법   , let snack =  { name:"맛동산" , price:4800 }		
 		$.ajax(
 				{
 					type: "get",
 					url :"/day9/food0",
 					success:  function( data ){
 						alert( data);
-						console.log( data);
-						
-						
-						$("#wrap").html( data);
-						
+						console.log( data);						
+						$("#wrap").html( data);						
 					},
 					error: function( err){
 						console.log(  err)
